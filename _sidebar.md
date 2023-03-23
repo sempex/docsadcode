@@ -1,2 +1,3 @@
 - Introduction
+  - [Goals2023](Goals.md)
 - Cybersecurity

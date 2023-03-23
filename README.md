@@ -1,4 +1,4 @@
-👋 Hello everyone,
+# 👋 Hello everyone,
 
 👨‍💻 My name is Tim and I am excited to share with you my journey into the world of cybersecurity. 🔒 As technology continues to advance at an unprecedented rate, the need for cybersecurity professionals has become increasingly important. With a strong passion for technology and a desire to make a difference in this field, I have decided to embark on a new journey to become a cybersecurity expert.
 

@@ -1,3 +1,4 @@
 - Introduction
   - [Goals2023](Goals.md)
 - Cybersecurity
+  - [OSINT Tools](OSINT/tools.md)
